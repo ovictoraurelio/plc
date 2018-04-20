@@ -2,6 +2,15 @@
 
 ## My lessons or whatever to discipline Programming Models (paradigms) at CIn - UFPE.
 
+### Tutorial
+
+Open GHCI inside workspace folder typing ghci on terminal
+    `$ cd /myworkspace && ghci`
+To load a file type: 
+    `$ :load file.hs`
+Now you just need call a function in file.hs
+    `$ myFunc`
+
 ### Library.hs
     Redefina as seguintes funções utilizando
         compreensão de listas
