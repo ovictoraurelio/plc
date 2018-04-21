@@ -1,0 +1,28 @@
+-- ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥
+-- ♥
+-- ♥			        Third exercise list of 2018.1 PLC
+-- ♥
+-- ♥			        @author ovictoraurelio
+-- ♥			        @github http://github.com/ovictoraurelio
+-- ♥			        @website http://victoraurelio.com
+-- ♥
+-- ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ 
+
+-- Q1
+--
+-- Considere as seguintes funções:
+--
+-- f1 :: (a -> b) -> [a] -> [b]
+-- f2 :: (a -> b -> a) -> a -> [b] -> a
+-- f3 :: (a -> b -> a) -> a -> [b] -> a
+-- f4:: (a -> bool) -> [a] -> ([a],[a])
+-- (+) :: (Num a) => a -> a -> a
+-- (.) :: (b -> c) -> (a -> b) -> a -> c
+--
+-- Determine o tipo, e comente o comportamento, de cada uma das funções
+-- abaixo, mostrando os passos até obter o resultado. Se for preciso, identifique as
+-- classes dos parâmetros polimórficos. Caso não seja possível determinar o tipo,
+-- explique o porquê.
+-- a) f3.f4
+-- c) f1.f2 (+)
+-- e) f4.f1.f1.f2

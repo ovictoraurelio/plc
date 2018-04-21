@@ -27,3 +27,9 @@ Now you just need call a function in file.hs
 
 ### Insert number in list
     Write a program in haskell that insert a number in order inside a ordered list
+
+### Insertion Sort
+    Write a program in haskell that insert a number and re-order list
+
+### Delete duplicated numbers
+    Write a program in haskell that delete duplicated numbers of a list
