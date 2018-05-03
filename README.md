@@ -1,6 +1,6 @@
-# PLC - Paradigmas de Linguagens computacionais | Programming Models (paradigms)
+# PLC - Paradigmas de Linguagens computacionais | Programming Pparadigms
 
-## My lessons or whatever to discipline Programming Models (paradigms) at CIn - UFPE.
+## My lessons or whatever to discipline Programming Paradigms at CIn - UFPE.
 
 ### Tutorial
 
