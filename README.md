@@ -61,11 +61,11 @@ Now you just need call a function in file.hs
 
 ### Where
 
-func :: t -> t
-func _ = _
-func x = anotherFunc x
-    where anotherFunc _ = _
-          anotherFunc x = x
+    func :: t -> t
+    func _ = _
+    func x = anotherFunc x
+        where anotherFunc _ = _
+              anotherFunc x = x
 
 ### Let
     can be used to generate var 
